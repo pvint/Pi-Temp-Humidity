@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name HDC2010)(type Legacy)(uri ${KIPRJMOD}/HDC2010.lib)(options "")(descr ""))
+)
